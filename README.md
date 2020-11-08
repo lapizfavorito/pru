@@ -15,4 +15,4 @@ demo-service
 demo-repository
 
 demo-model
-demo-shared
+demo-shared 3
